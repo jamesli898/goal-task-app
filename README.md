@@ -1,16 +1,7 @@
 # goal_app2
 
-A new Flutter project.
+Motivate yourself and create a daily to-do list with this app. You can add daily motivational quotes and tasks. Each task includes a time and description.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+In a new flutter project, replace the lib folder and pubspec.yaml file with the ones in this repository. Add the fonts and images file to the assets folder and then add the assets folder to the flutter project.
